@@ -1,2 +1,2 @@
 # grokking-algorithms
-JavaScript exercises from Grokking Algorithms by Aditya Y. Bhargava
+JavaScript exercises by me from Grokking Algorithms by Aditya Y. Bhargava
